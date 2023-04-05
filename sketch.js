@@ -70,7 +70,7 @@ function draw() {
     text('You can dream it all', width/2, height/2 - 50);
   }
 
-  if (frameCount >= 360 * 4 + 600) {
+  if (frameCount ==360) {
   textSize(16);
   fill(255);
   textAlign(CENTER);
