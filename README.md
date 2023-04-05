@@ -28,7 +28,7 @@ Full poem by Konstantinos Kavafis: [Poetry Foundation](https://www.poetryfoundat
 
 ## How to run project:
 1. You need to store the _html_, _css_, _js_, _images_, and _audio_ files in the same directory.
-2. Proceed to run, or use the GitHub pages link I have set up: ADD LINK
+2. Proceed to run, or use the GitHub pages link I have set up: https://vpartakki.github.io/project2/
 
 
 ## Files in this project:
