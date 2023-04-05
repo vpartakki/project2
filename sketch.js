@@ -70,12 +70,7 @@ function draw() {
     text('You can dream it all', width/2, height/2 - 50);
   }
 
-  if (frameCount ==360) {
-  textSize(16);
-  fill(255);
-  textAlign(CENTER);
-  text("When you set out for Ithaka\nask that your way be long,\nfull of adventure, full of instruction.\n...\nAnd if you find her poor, Ithaka hasn't deceived you.\nSo wise you have become, of such experience,\nthat already you'll have understood what these Ithakas mean.", width/2, height/2);
-  }
+
   
   
   // "Dream it to see it"
